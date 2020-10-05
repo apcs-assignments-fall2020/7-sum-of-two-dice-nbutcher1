@@ -31,6 +31,6 @@ public class MyMain {
 
 
     public static void main(String[] args) {
-        System.out.println((sumOfTwoDice(10));
+        System.out.println(sumOfTwoDice(10));
     }
 }
